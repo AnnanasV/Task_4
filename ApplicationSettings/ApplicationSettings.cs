@@ -6,9 +6,9 @@
         private string _programVersion;
         private DatabaseSettings dbSettings;
 
-        public ApplicationSettings()
+        public ApplicationSettings(string programName)
         {
-            _programName = "Program Name";
+            _programName = programName;
             _programVersion = "v2.0";
             dbSettings = new DatabaseSettings("connection string");
         }
