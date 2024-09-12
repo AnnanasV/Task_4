@@ -24,5 +24,10 @@
                 return GCD(a % b, b);
             return GCD(a, b % a);
         }
+
+        public static int LCM(int a, int b)
+        {
+            return (a * b) / GCD(a, b);
+        }
     }
 }
