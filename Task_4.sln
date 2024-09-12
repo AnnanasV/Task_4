@@ -5,6 +5,8 @@ VisualStudioVersion = 17.6.33723.286
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_4", "Task_4\Task_4.csproj", "{36412081-859F-4D74-BB05-6D7EEDA1383B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathHelper", "MathHelper\MathHelper.csproj", "{107597BF-9DFD-4CE4-B1E6-140B39E4A535}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{36412081-859F-4D74-BB05-6D7EEDA1383B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{36412081-859F-4D74-BB05-6D7EEDA1383B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{36412081-859F-4D74-BB05-6D7EEDA1383B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{107597BF-9DFD-4CE4-B1E6-140B39E4A535}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{107597BF-9DFD-4CE4-B1E6-140B39E4A535}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{107597BF-9DFD-4CE4-B1E6-140B39E4A535}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{107597BF-9DFD-4CE4-B1E6-140B39E4A535}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
