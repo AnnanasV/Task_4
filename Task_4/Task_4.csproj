@@ -9,10 +9,14 @@
 
   <ItemGroup>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <ProjectReference Include="..\MathHelper\MathHelper.csproj" />
 =======
     <ProjectReference Include="..\ApplicationSettings\ApplicationSettings.csproj" />
 >>>>>>> application-settings
+=======
+    <ProjectReference Include="..\Storage\Storage.csproj" />
+>>>>>>> storage
   </ItemGroup>
 
 </Project>
