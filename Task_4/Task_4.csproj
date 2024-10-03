@@ -11,6 +11,7 @@
     <ProjectReference Include="..\MathHelper\MathHelper.csproj" />
     <ProjectReference Include="..\ApplicationSettings\ApplicationSettings.csproj" />
     <ProjectReference Include="..\Storage\Storage.csproj" />
+    <ProjectReference Include="..\Timer\Timer.csproj" />
   </ItemGroup>
 
 </Project>

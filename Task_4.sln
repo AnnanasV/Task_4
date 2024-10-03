@@ -6,12 +6,16 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_4", "Task_4\Task_4.csproj", "{36412081-859F-4D74-BB05-6D7EEDA1383B}"
 EndProject
 <<<<<<< HEAD
+<<<<<<< HEAD
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApplicationSettings", "ApplicationSettings\ApplicationSettings.csproj", "{F7ABF2DE-ACD3-4284-A55F-7B6603625A6A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathHelper", "MathHelper\MathHelper.csproj", "{107597BF-9DFD-4CE4-B1E6-140B39E4A535}"
 =======
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Storage", "Storage\Storage.csproj", "{89B1759C-DF4B-489A-AAC3-770952857762}"
 >>>>>>> storage
+=======
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Timer", "Timer\Timer.csproj", "{A39E14BE-B7E0-41B1-85B8-12323E5386F7}"
+>>>>>>> timer
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,6 +27,7 @@ Global
 		{36412081-859F-4D74-BB05-6D7EEDA1383B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{36412081-859F-4D74-BB05-6D7EEDA1383B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{36412081-859F-4D74-BB05-6D7EEDA1383B}.Release|Any CPU.Build.0 = Release|Any CPU
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 		{107597BF-9DFD-4CE4-B1E6-140B39E4A535}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -41,6 +46,12 @@ Global
 		{89B1759C-DF4B-489A-AAC3-770952857762}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{89B1759C-DF4B-489A-AAC3-770952857762}.Release|Any CPU.Build.0 = Release|Any CPU
 >>>>>>> storage
+=======
+		{A39E14BE-B7E0-41B1-85B8-12323E5386F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A39E14BE-B7E0-41B1-85B8-12323E5386F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A39E14BE-B7E0-41B1-85B8-12323E5386F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A39E14BE-B7E0-41B1-85B8-12323E5386F7}.Release|Any CPU.Build.0 = Release|Any CPU
+>>>>>>> timer
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

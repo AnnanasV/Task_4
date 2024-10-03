@@ -13,3 +13,16 @@ Console.WriteLine(storage1.GetItem());
 var storage2 = new Storage.Storage<string>();
 storage2.SetItem("str");
 Console.WriteLine(storage2.GetItem());
+
+
+﻿Timer.Timer timer = new Timer.Timer();
+
+timer.OnTimeElapsed += Timer_OnTimeElapsed;
+timer.Start(3);
+
+Console.ReadLine();
+
+void Timer_OnTimeElapsed()
+{
+    Console.WriteLine("time is up");
+}
