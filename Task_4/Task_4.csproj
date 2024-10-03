@@ -8,7 +8,11 @@
   </PropertyGroup>
 
   <ItemGroup>
+<<<<<<< HEAD
     <ProjectReference Include="..\MathHelper\MathHelper.csproj" />
+=======
+    <ProjectReference Include="..\ApplicationSettings\ApplicationSettings.csproj" />
+>>>>>>> application-settings
   </ItemGroup>
 
 </Project>
